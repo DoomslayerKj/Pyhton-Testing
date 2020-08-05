@@ -4,5 +4,7 @@
 Reverse function needs to be Debugged , does not work when imported
 Initalize a new list by-
              list_Example = LinkedList()
+             
+             
              New_Node = Node(data,next_pointer )
   
